@@ -30,13 +30,13 @@ To run **Foodie** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsushil/foodie.git
+sudo git clone https://github.com/CodewithsushilOfficial/foodie.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsushil/foodie.git
+git clone https://github.com/CodewithsushilOfficial/foodie.git
 ```
 
 ### Contact
